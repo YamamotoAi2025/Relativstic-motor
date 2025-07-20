@@ -1,0 +1,50 @@
+ Relativistic Motor Utilizing the "Tanimoto Force"
+
+Abstract
+
+Conventional motors do not exploit relativistic effects for rotational propulsion. This invention introduces a novel motor that harnesses a force derived from the geodesic equations of general relativity—named the Tanimoto Force. By applying high-frequency 3-phase electric fields to a triaxial symmetric ferroelectric rotor, the relativistic effects are magnified, allowing for acceleration in the direction of rotation. This system effectively realizes a relativistic motor with potential applications in electric vehicles, aerospace propulsion, and advanced physics experiments.
+
+1. Background
+
+To date, no known motor design utilizes general relativistic effects as a primary means of rotation. While electric and magnetic forces have been foundational in classical motor design, the relativistic frame effects—especially those concerning curved spacetime and geodesic deviation—remain untapped in practical engineering.
+
+2. Problem Statement
+
+Standard electromagnetic motors suffer from back-torque effects and energy inefficiencies at high speeds. No existing system has achieved rotational propulsion through direct relativistic effects.
+
+3. Theoretical Foundation: Tanimoto Force
+
+The inventor derived a novel term in the geodesic equations when expressed in rotating coordinates. This term, not classically acknowledged, contributes a net force in the direction of angular velocity (omega), effectively reducing counter-torque and enhancing acceleration. The term is designated as the Tanimoto Force.
+
+This force emerges alongside centrifugal and Coriolis forces and can be represented in the geodesic equation as:
+
+First term: centrifugal force
+
+Second term: Coriolis force
+
+Third term: Tanimoto Force (acts in direction of increasing rotation)
+
+
+While the Tanimoto Force is minuscule under normal conditions, the invention proposes a way to amplify it using rotating electric fields.
+
+4. Device Structure and Operation
+
+A rotating disk made of ferroelectric material (e.g., BaTiO3) has three or more n-fold symmetric poles on its surface. These poles are supplied with n-phase alternating current of frequencies between 30 MHz and 20 GHz. This generates a rotating electric field around the disk, which interacts with the disk's structure, producing measurable rotational acceleration due to the Tanimoto Force.
+
+The rotation is achieved without conventional electromagnetic stators. Instead, the field coupling exploits relativistic geometry to generate torque.
+
+5. Applications and Implications
+
+High-efficiency motor systems
+
+Electromagnetic propulsion without magnetic fields
+
+Theoretical validation of relativistic mechanical systems
+
+Potential foundation for inertial-less or reactionless propulsion concepts
+
+
+6. Conclusion
+
+The "Tanimoto Force" opens a new field of relativistic mechanical design, offering
+
